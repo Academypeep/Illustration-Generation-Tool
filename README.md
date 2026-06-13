@@ -1,2 +1,20 @@
-# Illustration-Generation-Tool
-I have designed and built a fully functional full-stack Illustration Generator application using modern React, Express, and the Gemini API. The application utilizes the @google/genai SDK on a secure server-side architecture to manage high-fidelity image generation, smart prompt enhancement, and intuitive artwork editing.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/2a5f62f0-2c72-49b4-9913-fdd90d6c63fe
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`

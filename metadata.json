@@ -1,0 +1,6 @@
+{
+  "name": "Illustration Generator",
+  "description": "An interactive image generator tool that creates unique, stylized illustrations based on descriptive text prompts using Gemini image models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
